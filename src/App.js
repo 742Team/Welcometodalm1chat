@@ -1,4 +1,11 @@
-import "./App.css";
+//
+//
+//
+//  Created by Dimitri ALMON (DALM1) on 16/11/2023.
+//  Copyright DALM AGENCY © - 2023
+//
+
+import "./App.scss";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Main from "./pages/Main";
 import Header from "./component/Header";
