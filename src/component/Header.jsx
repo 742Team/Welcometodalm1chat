@@ -1,3 +1,10 @@
+//
+//
+//
+//  Created by Dimitri ALMON (DALM1) on 16/11/2023.
+//  Copyright DALM AGENCY © - 2023
+//
+
 import React from "react";
 import { Link } from "react-router-dom";
 
