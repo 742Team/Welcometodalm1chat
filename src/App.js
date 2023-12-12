@@ -5,7 +5,7 @@
 //  Copyright DALM AGENCY © - 2023
 //
 
-import "./App.scss";
+import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Main from "./pages/Main";
 import Header from "./component/Header";
